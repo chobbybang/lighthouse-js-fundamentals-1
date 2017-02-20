@@ -9,3 +9,10 @@ if (temperature < 0) {
 }
 
 console.log("Now you're ready to go outside!");
+
+
+
+f (temperature < -40 || temperature > 40) {
+
+  f (score > 0 && score < 8){
+    alert(score);
